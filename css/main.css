@@ -1051,6 +1051,10 @@ pre code {
 .post-body .note.danger h6 {
   color: #d9534f;
 }
+.mermaid {
+  margin-bottom: 20px;
+  text-align: center;
+}
 .pagination .prev,
 .pagination .next,
 .pagination .page-number,
@@ -2786,7 +2790,7 @@ hr {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3c4ebe;
+  background: #ff8fe5;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
