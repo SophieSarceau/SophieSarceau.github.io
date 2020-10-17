@@ -2,41 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The Notebook</title>
   
-  <subtitle>Record beautiful moments of love!</subtitle>
+  <subtitle>Record beautiful moments of my lifetime!</subtitle>
   <link href="https://sophiesarceau.github.io/atom.xml" rel="self"/>
   
   <link href="https://sophiesarceau.github.io/"/>
-  <updated>2020-09-05T08:32:29.574Z</updated>
+  <updated>2020-10-17T07:57:54.059Z</updated>
   <id>https://sophiesarceau.github.io/</id>
   
   <author>
-    <name>Ms. Lin &amp; Mr. Zheng</name>
+    <name>piaolaidangqu</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>The first dating</title>
-    <link href="https://sophiesarceau.github.io/2020/08/26/Thefirstdating/"/>
-    <id>https://sophiesarceau.github.io/2020/08/26/Thefirstdating/</id>
-    <published>2020-08-26T14:40:00.000Z</published>
-    <updated>2020-09-05T08:32:29.574Z</updated>
-    
-    
-    <summary type="html">记录一下第一次也可能是这个暑假最后一次好好和潇涵出去玩了</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>The first day</title>
-    <link href="https://sophiesarceau.github.io/2020/08/18/Thefirstday/"/>
-    <id>https://sophiesarceau.github.io/2020/08/18/Thefirstday/</id>
-    <published>2020-08-18T12:48:10.000Z</published>
-    <updated>2020-08-18T13:10:46.055Z</updated>
+    <link href="https://sophiesarceau.github.io/2020/10/17/Thefirstday/"/>
+    <id>https://sophiesarceau.github.io/2020/10/17/Thefirstday/</id>
+    <published>2020-10-17T07:57:00.000Z</published>
+    <updated>2020-10-17T07:57:54.059Z</updated>
     
     
     <summary type="html">今天是The Notebook建站的第一天！</summary>
